@@ -5,7 +5,6 @@ A simple project that shows a customized popup after a button click, using HTML,
 ## Features
 
 - Custom styled popup window
-- Responsive and accessible
 - Clean, simple code
 - The popup text can be modified in the HTML file
 
